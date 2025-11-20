@@ -1,0 +1,6 @@
+@dio_net_todo_entity_HostAddress = http://localhost:5140
+
+GET {{dio_net_todo_entity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
