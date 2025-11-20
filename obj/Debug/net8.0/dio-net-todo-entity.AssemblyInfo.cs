@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dio-net-todo-entity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0743ac0bb2e4d9b32d01c428b08be03270bb0d68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4152c71311dc39db6003a8c8c2af55d8e9d9b201")]
 [assembly: System.Reflection.AssemblyProductAttribute("dio-net-todo-entity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dio-net-todo-entity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

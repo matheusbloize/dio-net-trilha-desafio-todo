@@ -109,3 +109,4 @@ D:\Projects\dio-net-todo-entity\obj\Debug\net8.0\refint\dio-net-todo-entity.dll
 D:\Projects\dio-net-todo-entity\obj\Debug\net8.0\dio-net-todo-entity.pdb
 D:\Projects\dio-net-todo-entity\obj\Debug\net8.0\dio-net-todo-entity.genruntimeconfig.cache
 D:\Projects\dio-net-todo-entity\obj\Debug\net8.0\ref\dio-net-todo-entity.dll
+D:\Projects\dio-net-todo-entity\obj\Debug\net8.0\dio-net-todo-entity.sourcelink.json
